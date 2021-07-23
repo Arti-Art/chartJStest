@@ -21,7 +21,7 @@ var myChart = new Chart(ctx, {
     labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
     datasets: [
       {
-        label: 'number of kisses by day',
+        label: 'number of plants',
         data: [12, 19, 3, 5, 2, 3],
         borderWidth: 1,
         borderColor: 'rgb(75, 192, 192)',
@@ -55,7 +55,7 @@ var myChart2 = new Chart(ctx2, {
     labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
     datasets: [
       {
-        label: 'number of kisses by day',
+        label: 'number of bananas per day',
         data: [12, 9, 3, 5, 7, 3],
         borderWidth: 1,
         borderColor: 'rgb(75, 192, 192)',

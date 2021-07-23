@@ -15,3 +15,6 @@ In the html, the width and height of the canvas is a ratio.
 
 ## Example for Pie Chart
   + Separate pie piece on hover: hoverOffset
+
+## Updating charts
+https://www.chartjs.org/docs/latest/developers/updates.html
