@@ -1,5 +1,5 @@
 # Testing Chart JS
-For personal use.
+Learning chart JS.
 
 ## Installation
 use CDN JS https://cdnjs.com/libraries/Chart.js and get the chart.min script and add it to your html.
